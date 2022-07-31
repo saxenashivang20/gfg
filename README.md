@@ -1,1 +1,1 @@
-These are all the Geeks for geeks wuestions done by me 
+These are all the Geeks for geeks questions done by me 
