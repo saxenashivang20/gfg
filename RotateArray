@@ -4,7 +4,7 @@ class Solution{
     //Function to rotate an array by d elements in counter-clockwise direction. 
 
 
-void leftRotate(int arr[], int d, int n)
+void rotateArr(int arr[], int d, int n)
 {
 	int temp[d];
 
